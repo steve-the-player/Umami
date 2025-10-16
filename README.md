@@ -1,7 +1,7 @@
 # Umami by Sushi1056
 A Balatro mod I’m working on. 
 
-**Current content:** 
+## Current content: 
 - A new tarot, "SOUL E.X.", which upgrades non-food jokers into a legendary-equivalent rarity for 1 Ante
 - Upgraded versions of Riff-Raff, Baron, Bloodstone, Space Joker, Hallucination, Luchador, Sock and Buskin, and Mime
 - New art for Riff-Raff, Baron, Hiker, and Jimbo
@@ -20,19 +20,20 @@ A Balatro mod I’m working on.
 - config page
 
 ## Planned additions for future updates: 
-**Cross-mod content for JOKER E.X. upgrades of "Alternate Vanilla" mods:** 
+### Cross-mod content for JOKER E.X. upgrades of "Alternate Vanilla" mods: 
 - Ortalab
 - Familiar
+- others as I discover them
 
 **Alternate SOUL E.X. art for corresponding tarot types**
 
-**New mechanic that modifies jokers if the mod detects that "Unlock All" has been used on the profile**
+### New mechanic that modifies jokers if the mod detects that "Unlock All" has been used on the profile 
 - New Spectral "Amnesia", which removes all stickers (including stake stickers!) from a Joker, un-discovers it, removes it from the collection, and then destroys it
 - A set of Jokers that scale based on the number of locked/undiscovered Jokers in the collection
 - Vouchers that reduce or remove the punishment for unlocking all
 - "Showcase Deck", start with those couchers redeemed and a random Umami joker
 
-**"Meme Jokers" which are either nearly useless, or incredibly unbalanced but tedious to use** 
+### "Meme Jokers" which are either nearly useless, or incredibly unbalanced but tedious to use 
 - Joker that "balances chip and mult" (not a typo, it will literally only balance one chip/mult)
 - Mari: X13 mult, triggers 139 times
 - Ability to disable meme jokers in config

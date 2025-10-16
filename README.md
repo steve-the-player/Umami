@@ -19,7 +19,12 @@ A Balatro mod I’m working on.
 - Code for dynamically updating Joker art
 - config page
 
-## Planned additions for future updates:
+## Planned additions for future updates: 
+**Cross-mod content for JOKER E.X. upgrades of "Alternate Vanilla" mods:** 
+- Ortalab
+- Familiar
+**Alternate SOUL E.X. art for corresponding tarot types**
+
 **New mechanic that modifies jokers if the mod detects that "Unlock All" has been used on the profile**
 - New Spectral "Amnesia", which removes all stickers (including stake stickers!) from a Joker, un-discovers it, removes it from the collection, and then destroys it
 - A set of Jokers that scale based on the number of locked/undiscovered Jokers in the collection

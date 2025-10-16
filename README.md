@@ -23,6 +23,7 @@ A Balatro mod I’m working on.
 **Cross-mod content for JOKER E.X. upgrades of "Alternate Vanilla" mods:** 
 - Ortalab
 - Familiar
+
 **Alternate SOUL E.X. art for corresponding tarot types**
 
 **New mechanic that modifies jokers if the mod detects that "Unlock All" has been used on the profile**
